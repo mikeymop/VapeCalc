@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vape Calc</string>
+    <string name="volts">Voltage</string>
+    <string name="ohms">Impotence (Ohms)</string>
+    <string name="amps">Load</string>
+    <string name="watts">Power</string>
+    <string name="calc">Calculate</string>
+
+    <string name="hvolt">Output Voltage</string>
+    <string name="hohms">Ohms</string>
+    <string name="hamps">Amps</string>
+    <string name="hwatts">Watts</string>
+</resources>
